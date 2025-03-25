@@ -1,8 +1,8 @@
 ---
 title: "AQM Week 07 -- Simulation, Simulation!"
 author: 
-  - Oliver Rittmann
-date: "April 11, 2024"
+  - Domantas Undzėnas, Muhammad Muhammad
+date: "March 27|28, 2025"
 output:
   html_document:
     toc: true
